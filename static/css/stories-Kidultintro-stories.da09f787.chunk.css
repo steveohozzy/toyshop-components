@@ -1,0 +1,67 @@
+.category-title {
+    display: none !important;
+  }
+  .kidult {
+    padding: 20px 20px 20px;
+    background-color: #383839;
+    box-sizing: border-box;
+  }
+
+  .kidult .kidult-content {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+
+  .kidult:nth-child(2) {
+    padding-top: 0;
+  }
+  .subhead-ribbon {
+    margin-top: 0;
+  }
+
+  .kidult h2 {
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 45px;
+    text-align: center;
+    margin:  0 15px 0;
+    padding: 20px 10px;
+    font-family: "Nunito Black", "Tahoma Bold", sans-serif;
+    text-transform: uppercase;
+    background: linear-gradient(90deg,rgba(43, 200, 209, 1) 0%, rgba(2, 220, 178, 1) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-stroke: 15px transparent;
+    color: #000;
+  }
+
+  .kidult p {
+    color: rgb(243 244 246);
+    text-align: center;
+  }
+
+  .kidult h3 {
+    color: #fff;
+    text-align: center;
+    margin: 0 0 20px;
+    font-family: "Nunito Bold", "Tahoma Bold", sans-serif;
+    font-weight: normal;
+    font-size: 24px;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    background-color: #231F20;
+    padding: 15px;
+  }
+
+  @media (min-width: 1024px) {
+    .kidult h2 {
+      font-size: 80px;
+      line-height: 80px;
+      -webkit-text-stroke: 30px transparent;
+    }
+
+    .kidult h3 {
+      font-size: 34px;
+    }
+  }
+
+/*# sourceMappingURL=stories-Kidultintro-stories.da09f787.chunk.css.map*/
